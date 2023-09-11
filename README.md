@@ -1,29 +1,4 @@
-# gitub
+![image](https://github.com/Krishna-sm/github-api-vue-js/assets/105251808/00470bb4-8d88-477a-a8af-832fa3561275)
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![image](https://github.com/Krishna-sm/github-api-vue-js/assets/105251808/3ccd5953-367e-4e3a-860b-1302d4e6ce7e)
