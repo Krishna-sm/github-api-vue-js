@@ -4,9 +4,9 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import { OhVueIcon, addIcons } from "oh-vue-icons";
-import { PrSearch } from "oh-vue-icons/icons";
+import { PrSearch ,LaSpinnerSolid} from "oh-vue-icons/icons";
 
-addIcons(PrSearch);
+addIcons(PrSearch,LaSpinnerSolid);
 const app = createApp(App)
 
 app.use(router)
